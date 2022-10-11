@@ -1,0 +1,66 @@
+.box
+{
+    height: 300px;
+    width: 300px;
+    background-color:aqua ;
+}
+
+#button1
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+}
+
+#button2
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+}
+#button3
+{
+    height: 20px;
+    width: 20px;
+    border-radius: 10px;
+}
+
+.div1
+{
+    height: 160px;
+    width: 45px;
+    border-radius: 20px;
+    background-color: black;
+    padding: 10px;
+    margin-left: 150px;
+    position: absolute;
+    margin-top: 40px;
+
+}
+
+#button4
+{
+    height: 30px;
+    width: 60px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+
+}
+
+#button5
+{
+    height: 30px;
+    width: 60px;
+    border-radius: 20px;
+    margin-left: 50px;
+
+}
+    
+#button6
+{
+    height: 30px;
+    width: 60px;
+    border-radius: 20px;
+    margin-left: 50px;
+}

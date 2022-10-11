@@ -1,0 +1,54 @@
+body
+{
+ background-color: black;
+
+ color:white;
+
+}
+
+p
+{
+  margin-top:100px:
+}
+
+
+.box
+{
+
+	background-color: gray;
+
+	height:100px;
+
+	width:300px;
+
+	border-radius:10px;
+}
+
+.button1
+
+{
+	margin-rigth:30px;
+
+	background-color: green;
+
+	height:50px;
+
+	width:100px;
+
+}
+
+
+.button2
+
+{
+	margin-rigth:30px;
+
+	background-color: red;
+
+	height:50px;
+
+	width:100px;
+
+}
+
+
