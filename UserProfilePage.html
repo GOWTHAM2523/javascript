@@ -1,0 +1,106 @@
+<html>
+
+<head>
+
+<title> UserProfilePage </title>
+
+</head>
+
+<body text="white">
+
+<div  class="box"> 
+
+<img id="im1" />
+
+<p id="pid"> </p>
+
+<p id="pid2"> </p>
+
+</div>
+
+
+<style>
+
+.box
+{
+
+height:250px;
+
+width:250px;
+
+background-color: purple;
+
+margin-left:600px;
+
+margin-top:250px;
+
+padding:10px;
+
+}
+
+
+#im1 { 
+
+hieght:100px;
+
+width :100px;
+
+margin-left:75px;
+
+}
+
+#pid {
+
+margin-left:65px; 
+
+}
+
+#pid2{
+
+margin-left:65px;
+}
+
+
+
+
+
+</style>
+
+
+
+
+
+<script>
+
+let a=document.getElementById("im1");
+
+let b=document.getElementById("pid");
+
+let c=document.getElementById("pid2");
+
+let obj =
+ {
+
+	image:"https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-No-Background.png",
+	
+	name:"RAHUL ATTULURI",
+	
+	age:25,
+	
+ };
+
+
+a.src=obj.image;
+
+b.textContent=obj.name;
+
+c.textContent= "Age" + ":" + " " +obj.age;
+
+ </script>
+
+</body>
+
+<html>
+
+
+
